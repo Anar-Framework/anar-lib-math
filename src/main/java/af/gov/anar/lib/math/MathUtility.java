@@ -23,12 +23,12 @@ import java.util.List;
 /**
  * Utilities for Mathematical operations.
  */
-public final class MathUtils {
+public final class MathUtility {
 
 	/**
 	 * Private Constructor for MathUtil Class
 	 */
-	private MathUtils() {
+	private MathUtility() {
 
 	}
 
