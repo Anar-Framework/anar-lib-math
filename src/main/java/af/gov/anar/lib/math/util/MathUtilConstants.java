@@ -1,13 +1,13 @@
 package af.gov.anar.lib.math.util;
 
 public enum MathUtilConstants {
-	ARITHMETIC_ERROR_CODE("CORE-UTL-301", "Invalid Result Found"),
-	ILLEGALARGUMENT_ERROR_CODE("CORE-UTL-302", "Invalid Argument Found"),
-	NOT_A_NUMBER_ERROR_CODE("CORE-UTL-303", "NaN cannot be use as limit"),
-	NOT_FINITE_NUMBER_ERROR_CODE("CORE-UTL-304", "Infinite limit cannot be used"),
-	NOTPOSITIVE_ERROR_CODE("CORE-UTL-305", "Negative argument cannot be used"),
-	NUMBER_IS_TOO_LARGE_ERROR_CODE("CORE-UTL-306", ""),
-	NULL_POINTER_ERROR_CODE("CORE-UTL-307", "Lower limit is larger than upper limit");
+	ARITHMETIC_ERROR_CODE("ANAR-UTL-301", "Invalid Result Found"),
+	ILLEGALARGUMENT_ERROR_CODE("ANAR-UTL-302", "Invalid Argument Found"),
+	NOT_A_NUMBER_ERROR_CODE("ANAR-UTL-303", "NaN cannot be use as limit"),
+	NOT_FINITE_NUMBER_ERROR_CODE("ANAR-UTL-304", "Infinite limit cannot be used"),
+	NOTPOSITIVE_ERROR_CODE("ANAR-UTL-305", "Negative argument cannot be used"),
+	NUMBER_IS_TOO_LARGE_ERROR_CODE("ANAR-UTL-306", ""),
+	NULL_POINTER_ERROR_CODE("ANAR-UTL-307", "Lower limit is larger than upper limit");
 
 	/** Error code. */
 	public final String errorCode;
