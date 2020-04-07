@@ -1,7 +1,7 @@
 package af.gov.anar.lib.math;
 
-import af.gov.anar.lang.infrastructure.exception.common.ArithmeticException;
-import af.gov.anar.lang.infrastructure.exception.common.IllegalArgumentException;
+import af.gov.anar.core.infrastructure.exception.common.ArithmeticException;
+import af.gov.anar.core.infrastructure.exception.common.IllegalArgumentException;
 import af.gov.anar.lib.math.exception.NotANumberException;
 import af.gov.anar.lib.math.exception.NotFiniteNumberException;
 import af.gov.anar.lib.math.exception.NotPositiveException;

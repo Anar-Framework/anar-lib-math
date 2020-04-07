@@ -1,6 +1,6 @@
 package af.gov.anar.lib.math.exception;
 
-import af.gov.anar.lang.infrastructure.exception.common.BaseUncheckedException;
+import af.gov.anar.core.infrastructure.exception.common.BaseUncheckedException;
 
 /**
  * Exception to be thrown when a number is too large.
