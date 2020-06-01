@@ -19,8 +19,8 @@ import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.*;
 
 public class MathUtilityTest {
-	int a[] = new int[3];
-	double b[] = new double[3];
+	int[] a = new int[3];
+	double[] b = new double[3];
 	List<Integer> list = new ArrayList<Integer>();
 
 	@Before
